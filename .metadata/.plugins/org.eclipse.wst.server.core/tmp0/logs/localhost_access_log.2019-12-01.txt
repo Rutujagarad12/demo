@@ -1,0 +1,9 @@
+127.0.0.1 - - [01/Dec/2019:23:13:17 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [01/Dec/2019:23:13:19 +0530] "GET /project/loginSucess.jsp HTTP/1.1" 200 687
+0:0:0:0:0:0:0:1 - - [01/Dec/2019:23:15:20 +0530] "GET /project/loginSucess.jsp HTTP/1.1" 200 658
+0:0:0:0:0:0:0:1 - - [01/Dec/2019:23:16:38 +0530] "GET /project/loginSucess.jsp HTTP/1.1" 200 1396
+127.0.0.1 - - [01/Dec/2019:23:53:24 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [01/Dec/2019:23:53:25 +0530] "GET /project/loginSucess.jsp HTTP/1.1" 200 937
+127.0.0.1 - - [01/Dec/2019:23:55:02 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [01/Dec/2019:23:55:04 +0530] "GET /project/loginSucess.jsp HTTP/1.1" 200 575
+0:0:0:0:0:0:0:1 - - [01/Dec/2019:23:55:48 +0530] "GET /project/loginSucess.jsp HTTP/1.1" 200 578

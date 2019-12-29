@@ -1,0 +1,131 @@
+
+Dec 04, 2019 14:48:38.46 NEW SESSION
+Dec 04, 2019 14:48:38.46 [1552:9484:1204/144838.459:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Dec 04, 2019 14:48:38.46 [1552:9484:1204/144838.460:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+Dec 04, 2019 14:48:39.62 [1552:9484:1204/144839.620:ERROR:pref_model_associator.cc(103)] Failed to deserialize value of preference 'sync.demographics': Line: 1, column: 1, Unexpected token.
+Dec 04, 2019 14:48:46.92 [1552:5056:1204/144846.924:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 04, 2019 14:49:12.54 [1552:5056:1204/144912.542:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 04, 2019 14:49:13.00 [1552:9484:1204/144913.001:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Connection failed (-106).
+Dec 04, 2019 14:49:13.23 [1552:9484:1204/144913.231:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Dec 04, 2019 14:49:13.75 [1552:9484:1204/144913.750:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Dec 04, 2019 14:49:13.95 [1552:9484:1204/144913.954:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Connection failed (-106).
+Dec 04, 2019 14:50:01.99 [1552:5056:1204/145001.995:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 04, 2019 14:51:38.65 [1552:5056:1204/145138.655:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 04, 2019 14:55:31.28 [1552:5056:1204/145531.289:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 04, 2019 14:58:43.59 [1552:5056:1204/145843.592:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -21
+Dec 04, 2019 16:17:34.99 [1552:5056:1204/161734.998:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Dec 04, 2019 16:17:42.79 [1552:5056:1204/161742.789:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Dec 04, 2019 16:17:47.91 [1552:5056:1204/161747.914:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Dec 04, 2019 16:17:53.71 [1552:5056:1204/161753.719:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Dec 04, 2019 16:35:05.19 [1552:5056:1204/163505.198:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Dec 04, 2019 16:35:05.81 [1552:5056:1204/163505.816:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -21
+Dec 04, 2019 16:35:39.56 [1552:5056:1204/163539.565:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -7
+Dec 04, 2019 16:36:10.55 [1552:5056:1204/163610.557:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Dec 04, 2019 16:36:37.61 [1552:5056:1204/163637.613:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Dec 04, 2019 16:38:16.32 [1552:5056:1204/163816.326:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Dec 04, 2019 16:38:25.64 [1552:5056:1204/163825.645:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Dec 04, 2019 16:39:06.07 [1552:5056:1204/163906.071:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 04, 2019 16:41:52.93 [1552:5056:1204/164152.931:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Dec 04, 2019 16:44:56.04 [1552:5056:1204/164456.048:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 04, 2019 17:07:34.13 [1552:9484:1204/170734.135:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.843 s for first_image_paint 1.745 s
+Dec 04, 2019 17:07:35.14 [1552:9484:1204/170735.140:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.843 s for first_image_paint 1.745 s
+Dec 04, 2019 17:07:36.34 [1552:9484:1204/170736.341:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.843 s for first_image_paint 1.745 s
+Dec 04, 2019 17:07:41.09 [1552:9484:1204/170741.095:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.843 s for first_image_paint 1.745 s
+Dec 04, 2019 17:08:45.34 [1552:9484:1204/170845.346:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.843 s for first_image_paint 1.745 s
+Dec 04, 2019 17:13:07.63 [1552:9484:1204/171307.630:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.843 s for first_image_paint 1.745 s
+Dec 04, 2019 17:17:59.88 [1552:9484:1204/171759.881:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.843 s for first_image_paint 1.745 s
+Dec 04, 2019 17:22:30.78 [1552:9484:1204/172230.787:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.843 s for first_image_paint 1.745 s
+Dec 04, 2019 17:27:15.09 [1552:9484:1204/172715.097:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.843 s for first_image_paint 1.745 s
+Dec 04, 2019 17:31:43.28 [1552:9484:1204/173143.282:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.843 s for first_image_paint 1.745 s
+Dec 04, 2019 17:38:21.09 [1552:9484:1204/173821.099:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.843 s for first_image_paint 1.745 s
+Dec 04, 2019 18:26:18.17 [1552:5056:1204/182618.172:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 04, 2019 18:26:44.05 [1552:5056:1204/182644.051:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 04, 2019 18:27:30.59 [1552:5056:1204/182730.596:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 04, 2019 18:33:46.19 [1552:5056:1204/183346.197:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Dec 04, 2019 18:36:42.51 [1552:5056:1204/183642.518:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -7
+Dec 04, 2019 18:57:21.18 [1552:5056:1204/185721.182:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 04, 2019 19:01:06.22 [1552:5056:1204/190106.227:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Dec 04, 2019 19:33:49.64 [1552:9484:1204/193349.640:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 04, 2019 19:33:50.76 [1552:5056:1204/193350.760:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -21
+Dec 04, 2019 19:34:13.05 [1552:5056:1204/193413.057:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 04, 2019 19:34:15.19 [1552:9484:1204/193415.196:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 04, 2019 19:34:56.66 [1552:5056:1204/193456.669:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 04, 2019 19:34:59.89 [1552:9484:1204/193459.894:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 04, 2019 19:36:19.46 [1552:5056:1204/193619.462:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 04, 2019 19:36:40.31 [1552:9484:1204/193640.310:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 04, 2019 19:39:29.07 [1552:5056:1204/193929.072:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 04, 2019 19:40:12.47 [1552:9484:1204/194012.472:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 04, 2019 19:46:49.49 [1552:5056:1204/194649.494:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 04, 2019 19:47:08.68 [1552:9484:1204/194708.689:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 04, 2019 19:56:49.49 [1552:5056:1204/195649.496:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 04, 2019 19:57:08.69 [1552:9484:1204/195708.694:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 04, 2019 20:06:49.50 [1552:5056:1204/200649.501:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 04, 2019 20:07:08.70 [1552:9484:1204/200708.699:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 04, 2019 20:16:49.50 [1552:5056:1204/201649.505:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 04, 2019 20:17:08.70 [1552:9484:1204/201708.704:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 04, 2019 20:30:25.81 [1552:9484:1204/203025.814:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 04, 2019 20:30:26.86 [1552:9484:1204/203026.860:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 04, 2019 20:30:27.95 [1552:9484:1204/203027.951:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 04, 2019 20:30:29.17 [1552:9484:1204/203029.170:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 04, 2019 20:30:32.78 [1552:9484:1204/203032.787:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 04, 2019 20:30:37.27 [1552:9484:1204/203037.272:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 04, 2019 20:30:54.53 [1552:9484:1204/203054.538:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 04, 2019 20:31:07.97 [1552:9484:1204/203107.973:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 04, 2019 20:35:10.73 [1552:9484:1204/203510.730:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 04, 2019 20:41:36.33 [1552:9484:1204/204136.336:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 04, 2019 20:48:51.73 [1552:9484:1204/204851.730:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 04, 2019 21:00:02.07 [1552:9484:1204/210002.069:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 04, 2019 21:09:56.06 [1552:9484:1204/210956.069:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 04, 2019 21:25:04.07 [1552:9484:1204/212504.071:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 04, 2019 21:29:11.56 [1552:5056:1204/212911.560:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Dec 04, 2019 21:29:12.62 [1552:9484:1204/212912.628:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 04, 2019 23:13:09.51 [1552:9484:1204/231309.515:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 04, 2019 23:13:11.59 [1552:9484:1204/231311.590:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 04, 2019 23:13:13.98 [1552:5056:1204/231313.981:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 04, 2019 23:13:44.44 [1552:5056:1204/231344.448:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Dec 04, 2019 23:16:00.11 [1552:9484:1204/231600.094:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 04, 2019 23:16:01.22 [1552:9484:1204/231601.227:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 04, 2019 23:16:01.33 [1552:5056:1204/231601.336:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 04, 2019 23:16:02.35 [1552:9484:1204/231602.355:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 04, 2019 23:17:04.08 [1552:9484:1204/231704.087:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 04, 2019 23:26:22.98 [1552:9484:1204/232622.985:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 04, 2019 23:38:39.99 [1552:9484:1204/233839.992:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 04, 2019 23:51:29.98 [1552:9484:1204/235129.989:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 05, 2019 24:04:31.00 [1552:9484:1205/000431.002:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 05, 2019 24:17:52.97 [1552:9484:1205/001752.979:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 05, 2019 24:32:12.99 [1552:9484:1205/003212.995:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 05, 2019 24:45:11.98 [1552:9484:1205/004511.979:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+Dec 05, 2019 24:59:51.97 [1552:9484:1205/005951.975:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.778 s for first_image_paint 1.709 s
+
+Dec 05, 2019 15:07:29.42 NEW SESSION
+Dec 05, 2019 15:07:29.42 [8812:2464:1205/150729.421:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Dec 05, 2019 15:07:29.85 [8812:2464:1205/150729.421:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+Dec 05, 2019 15:07:29.85 [8812:2464:1205/150729.489:ERROR:pref_model_associator.cc(103)] Failed to deserialize value of preference 'sync.demographics': Line: 1, column: 1, Unexpected token.
+Dec 05, 2019 15:07:36.25 [8812:4084:1205/150736.259:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 05, 2019 15:08:04.09 [8812:4084:1205/150804.091:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 05, 2019 15:08:57.80 [8812:4084:1205/150857.805:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 05, 2019 15:10:36.20 [8812:4084:1205/151036.209:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 05, 2019 15:11:24.92 [8812:2464:1205/151124.928:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 05, 2019 15:11:49.46 [8812:2464:1205/151149.469:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 05, 2019 15:12:33.90 [8812:2464:1205/151233.901:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 05, 2019 15:13:18.06 [8812:4084:1205/151318.063:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 05, 2019 15:13:56.20 [8812:2464:1205/151356.206:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 05, 2019 15:17:00.81 [8812:2464:1205/151700.808:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+
+Dec 14, 2019 18:03:52.88 NEW SESSION
+Dec 14, 2019 18:03:52.88 [10068:2200:1214/180352.877:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Dec 14, 2019 18:03:52.91 [10068:2200:1214/180352.881:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+Dec 14, 2019 18:03:53.21 [10068:2200:1214/180353.217:ERROR:pref_model_associator.cc(103)] Failed to deserialize value of preference 'sync.demographics': Line: 1, column: 1, Unexpected token.
+Dec 14, 2019 18:04:02.01 [10068:3660:1214/180402.019:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2019 18:04:02.02 [10068:3660:1214/180402.023:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Dec 14, 2019 18:04:23.70 [10068:3660:1214/180423.702:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Dec 14, 2019 18:04:26.11 [10068:3660:1214/180426.112:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2019 18:04:26.80 [10068:2200:1214/180426.807:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Dec 14, 2019 18:04:27.06 [10068:2200:1214/180427.067:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Connection failed (-106).
+Dec 14, 2019 18:05:04.30 [10068:3660:1214/180504.308:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Dec 14, 2019 18:05:07.35 [10068:3660:1214/180507.350:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2019 18:06:41.82 [10068:3660:1214/180641.824:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Dec 14, 2019 18:07:06.39 [10068:3660:1214/180706.391:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2019 18:10:22.79 [10068:3660:1214/181022.794:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Dec 14, 2019 18:10:40.04 [10068:3660:1214/181040.045:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2019 18:11:30.73 [10068:2200:1214/181130.739:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
